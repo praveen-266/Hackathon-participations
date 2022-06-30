@@ -3,7 +3,7 @@
 ## Title: Football player rating prediction       
           
 
-Approach:     
+### Approach:     
 tried different models like lightgbm,randomforest,xgboost,adaboost.Finally ensemble of lightgbm gave better prediction based on the KFold validation    
 
 ### Featuere Selection:        
