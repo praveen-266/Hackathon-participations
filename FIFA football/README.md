@@ -2,6 +2,10 @@
 # This Hackathon is coducted by Analytics vidhya community     
 ## Title: Football player rating prediction       
           
+          
+## LeaderBoard:            
+   * I have got 141/4.5k in public leaderboard       
+   * I have got 121/4.5k in private leaderboard
 
 ### Approach:     
 tried different models like lightgbm,randomforest,xgboost,adaboost.Finally ensemble of lightgbm gave better prediction based on the KFold validation    
