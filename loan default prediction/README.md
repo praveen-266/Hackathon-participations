@@ -1,6 +1,8 @@
 # Analytics Vidhya - Loan Default Hackathon         
           
-I have Secured **17/1356** in public leaderboard  and **26/1356** in private leaderboard            
+I have Secured **17/1356** in public leaderboard                   
+and **26/1356** in private leaderboard            
+
 # Problem Statement               
 The objective is to build a machine learning model to predict whether an applicant will default on the loan or not in the future           
   
@@ -18,5 +20,29 @@ The train and test set contains the different attributes related to demographic 
 | no_of_loans| No.of loans taken by the applicant|      
 | no_of_curr_loans| No.of active loans held by the applicant|   
 | last_delinq_none|  The loan default in at least one of the past loans|           
-| loan_default(Target Variable)| 0/1 indicating if an applicant will defu=aultt the loan or not|
+| loan_default(Target Variable)| 0/1 indicating if an applicant will defaultt the loan or not|             
 
+
+# Approach     
+Tried different models like lightgbm, catboost, randomforest, extrtree, ada boost, svc, etc. Finally ensemble of lightgbm model gave me better classififcation based on CV validation           
+
+## Exploratory Data Analysis        
+statistical data analysis performed on data to find if any outlier or missing data are present       
+* Education column has null values           
+
+## Feature transformation       
+* one hot encoded     
+      proof_submitted varaible         
+
+## Feature selection      
+Tried lightgbm(plot_importance)  attribute to select importannt features           
+**important features:**       
+Top 7 features that turned out to be important are:      
+ 1. Loan_amount     
+ 2. No.of loans  
+ 3. No.of curr_loan      
+ 4. age       
+ 5. assest_cost        
+ 6. education        
+ 7. proof_submitted_Driving           
+        
