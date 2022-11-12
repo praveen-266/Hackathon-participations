@@ -68,7 +68,8 @@ transmission_type|Transmission type of the car|
 |is_claim(Target Variable)|Outcome: Boolean flag indicating whether the policyholder file a claim in the next 6 months or not.|
 
 
-#Submission File Format
+# Submission File Format                 
+
 The solution file should follow a format similar to that of the sample submission file. sample_submission.csv contains 2 variables - policy_id and is_claim.
 
 |Variable|Description|
@@ -76,5 +77,6 @@ The solution file should follow a format similar to that of the sample submissio
 |policy_id|Unique identifier of the policyholder|
 |is_claim|Outcome: Boolean flag indicating whether the policyholder file a claim in the next 6 months or not|
 
-#Evaluation metric
+# Evaluation metric               
+
 The evaluation metric for this hackathon would be F1 score.
