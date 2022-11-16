@@ -1,10 +1,6 @@
 ## Predict CTR of an Email campaign (JOB-A-THON) 
 <!--  -->     
 
-### LeaderBoard:    
-Public score : 300 / 8235              
-Private score : 600 / 8235 
-
 # Problem Statement        
 Most organization today relay on email campaigns for effective communication is one of the popular ways to pitch products to user and build trustworthy relationship with them         
 
@@ -56,3 +52,7 @@ category| Category of the email is related to |
 # evaluation metric          
 The evaluation metric for this hackathon would be **r2_score** and **RMSE**           
 
+
+### LeaderBoard:    
+Public score : 300 / 8235             
+Private score : 600 / 8235 
