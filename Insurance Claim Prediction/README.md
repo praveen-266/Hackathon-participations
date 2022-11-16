@@ -1,4 +1,13 @@
-# Insurance Claim Prediction :     
+# Insurance Claim Prediction      
+
+![image](https://user-images.githubusercontent.com/71770999/202216176-e11ab403-5420-4cf3-b7d2-56f8870a6e8d.png)
+
+![image](https://user-images.githubusercontent.com/71770999/202216225-4b5d311b-0af0-4d46-9b40-dfa41806797c.png)
+
+![image](https://user-images.githubusercontent.com/71770999/202216260-1f913b79-fc6f-4c21-825a-49f2805dec5d.png)
+
+           
+# About : 
 An insurance policy is an agreement between a company and a customer by which a company undertakes to provide a guarantee of compensation for specified loss, damage or illness in return for the payment of a specified premium. A premium is a sum of money that the customer needs to pay regularly to an insurance company for this guarantee.
 
 For example, you pay a premium of Rs. 3000/- each year for car insurance with a coverage of Rs. 100,000/-. Unfortunately, in case of an accident, the car is severely damaged. In that case, the insurance provider company will bear the cost of damage etc. for up to Rs. 100,000. 
