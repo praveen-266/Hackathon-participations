@@ -1,8 +1,5 @@
 # Analytics Vidhya - Loan Default Hackathon         
           
-I have Secured **17/1356** in public leaderboard                   
-and **26/1356** in private leaderboard            
-
 # Problem Statement               
 The objective is to build a machine learning model to predict whether an applicant will default on the loan or not in the future           
   
@@ -46,3 +43,8 @@ Top 7 features that turned out to be important are:
  6. education        
  7. proof_submitted_Driving           
         
+## LeaderBoard :        
+public LB : 17/1356   
+private LB: 26/1356
+
+https://datahack.analyticsvidhya.com/contest/machine-learning-summer-training-hackathon/#LeaderBoard
