@@ -32,3 +32,5 @@ Test data is further divided into Public (40%) and Private (60%) data.
 ## score:
 Public LB : 151 / 6388          
 Private LB : 115 / 6388
+
+https://datahack.analyticsvidhya.com/contest/job-a-thon-november-2022/#LeaderBoard
