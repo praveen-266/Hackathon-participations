@@ -55,4 +55,6 @@ The evaluation metric for this hackathon would be **r2_score** and **RMSE**
 
 ### LeaderBoard:    
 Public LB : 300 / 8235             
-Private LB : 600 / 8235 
+Private LB : 600 / 8235                 
+
+https://datahack.analyticsvidhya.com/contest/job-a-thon-august-2022/#LeaderBoard
