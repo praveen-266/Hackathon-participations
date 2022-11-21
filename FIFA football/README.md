@@ -24,7 +24,7 @@ Tried different approach to select important features.
  ![image](https://user-images.githubusercontent.com/71770999/176739875-f8c98b82-6faf-4b00-83cf-99f34539937d.png)
 
 ## LeaderBoard:            
-   public LB : 120 / 4695 
+   public LB : 120 / 4695             
    private LB : 143 / 4695
 
-https://datahack.analyticsvidhya.com/contest/machine-learning-summer-training-hackathon/#LeaderBoard
+https://datahack.analyticsvidhya.com/contest/football-hackathon/#LeaderBoard
