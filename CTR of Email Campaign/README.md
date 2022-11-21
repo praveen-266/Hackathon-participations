@@ -54,5 +54,5 @@ The evaluation metric for this hackathon would be **r2_score** and **RMSE**
 
 
 ### LeaderBoard:    
-Public score : 300 / 8235             
-Private score : 600 / 8235 
+Public LB : 300 / 8235             
+Private LB : 600 / 8235 
