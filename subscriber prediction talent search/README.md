@@ -1,5 +1,5 @@
 
-# Problrm statement             
+# Problem statement             
 This hackathon will try to address the challenges of banking telecallers when they call blindly to people in order to sell term deposit plans.
 
 # Aim of the project   
