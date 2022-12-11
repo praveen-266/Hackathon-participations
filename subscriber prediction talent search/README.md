@@ -26,5 +26,6 @@ Campaign| Number of contacts performed during this campaign and for this client
 Pdays| Number of days that passed by after the client was last contacted from a previous campaign (-1 means the client was not previously contacted)
 Previous| Number of contacts performed before this campaign and for this client|
 Poutcome| Outcome of the previous marketing campaign|
+
 # evaluation metric           
-The submission will be evaluated using the Log Loss metric. One can use sklearn.metric.log_loss to calculate the same
+The submission will be evaluated using the **Log Loss metric**. One can use **sklearn.metric.log_loss** to calculate the same
