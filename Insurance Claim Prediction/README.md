@@ -25,6 +25,9 @@ Now the company would like to use Data Science to identify the policyholders who
 Predict whether the policyholder will file a claim in the next 6 months or not.
 
 
+Link : https://datahack.analyticsvidhya.com/contest/dataverse/
+
+
 # About Dataset :     
 You are provided with information on policyholders containing the attributes like policy tenure, age of the car, age of the car owner, population density of the city, make and model of the car, power, engine type, etc and the target variable indicating whether the policyholder files a claim in the next 6 months or not.
 
